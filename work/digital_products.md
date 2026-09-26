@@ -18,6 +18,14 @@ A paid ebook on landing online translation work, aimed at African freelancers ta
 
 A Swahili sales page ("Mawakala 500 wanaotoa kazi za kutafsiri") selling a database of 500 agencies that offer Swahili translation jobs, bundled with sample CVs, a private WhatsApp group and a free masterclass on getting translation jobs from agencies. Buyers are automatically added to a live session capped at 100 seats. Marketed to my mailing list and YouTube audience, where the free translation class announcement was the largest single send on the list (8,190 subscribers).
 
+## Earlier products (2022 to 2025)
+
+* "Jifunze Namna ya Kuuza Ujuzi", a Swahili ebook on selling your skills online, sold on Selar since 2022 and still selling in December 2025
+* "Kitabu cha Skills", a Swahili book manuscript on digital skills (2022)
+* An Upwork Connect ebook (its subscriber segment on the list numbers 343)
+* A Notion database of 100 agencies offering translation jobs, distributed to students in November 2025, the seed of the 500 agency database
+* Digital Dose by Mafolebaraka, a remote jobs newsletter on beehiiv (2026)
+
 ## Fiverr
 
 An English to Swahili translation gig under barakamafole18, used as a live test bed for gig SEO and seller profile optimisation.

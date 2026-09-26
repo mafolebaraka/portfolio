@@ -1,18 +1,20 @@
 # How I built @mafolebaraka
 
 **Role:** Creator, strategist and operator of my own brand, 2021 to present
-**Scale:** 150,000+ followers and 3.4 million+ monthly views across six platforms, a 9,400+ subscriber email list, a 13,000+ member community
+**Scale:** 150,000+ followers and 3.4 million+ monthly views across six platforms, a 10,000+ subscriber email list, a 13,000+ member community
 **Languages:** Swahili first, English second
 
 This is the long version of how the personal brand was built, written for marketers who want to see the decisions behind the numbers. The companion file [mafolebaraka_channel.md](mafolebaraka_channel.md) covers how the channel runs day to day.
 
 ## 1. The bet: Swahili first content on a subject nobody was covering in Swahili
 
-I started publishing in 2021 while studying Communication Studies at the University of Dar es Salaam. The subject was online work: freelancing, remote jobs, translation and transcription gigs, and later AI training work. The audience was young Tanzanians and Kenyans who had the skills but no map.
+I started publishing in 2021 while studying Communication Studies at the University of Dar es Salaam, first on Twitter, then YouTube and Telegram. The subject was online work: freelancing, remote jobs, translation and transcription gigs, and later AI training work. The audience was young Tanzanians and Kenyans who had the skills but no map. I had already been paid by clients abroad as a Swahili translator and localisation freelancer on Upwork, Fiverr, Guru and PeoplePerHour, so the advice was first hand.
 
 The bet was language. Content about remote work was reaching Swahili speakers in English, if it reached them at all, and in a register that assumed a Western or Lagos context. So the channel went Swahili first, in the street register people actually speak (mzee, aisee, wallahi), not the formal Swahili of textbooks. That single decision is the reason the channel grew: it became one of the few places a young person in Dar or Mombasa could hear about Upwork, translation agencies or AI trainer jobs in their own voice.
 
-Later I layered an English track for a global audience, positioned as an operator thinker on digital jobs, startups and the creator economy, kept deliberately early career and forward thinking rather than overstated.
+The first proof came fast. In May 2021 a tweet offering a paid freelancing class filled a first batch of 20 one to one seats by email. By March 2022 the audience was 22,000+ across platforms. By October 2023 it was 50,000+ followers and 1.5 million monthly impressions, with Instagram Meta Verified that December. By September 2024 the X account alone had passed 50,800 followers, with TikTok at 8,147, Instagram at 5,279 and LinkedIn at 4,223. By August 2026, with YouTube added in December 2024, the count across Instagram, YouTube, Facebook and LinkedIn was 193,000, and the combined figure across six platforms passed 150,000 followers and 3.4 million monthly views.
+
+Later I layered an English track for a global audience, positioned as an operator thinker on digital jobs, startups and the creator economy, kept deliberately early career and forward thinking rather than overstated. LinkedIn alone now peaks above 11,800 weekly impressions.
 
 ## 2. The voice: founder next door
 
@@ -45,7 +47,7 @@ Followers are rented. The strategy from early on was to move people from platfor
 
 The email list tells the story of where the audience came from. Of 9,479 active subscribers in June 2026, the largest segments were the Circle community (2,322), the Instagram audience (2,316), a free translation masterclass (2,156), an Upwork selling class (1,842), a remote jobs list (1,252) and physical event attendees (773). Each segment is a piece of content or an event that converted social attention into a permanent relationship. The list grew by 3,457 in a single 30 day window and runs at a 33% open rate and 6.7% click rate, with 0.3% unsubscribes.
 
-The community, first on Circle and since June 2026 on FluentCommunity at remotikaafrica.org, is the second owned layer: 13,198 members, 4,387 of them active in the last 90 days. YouTube feeds it directly: the video that launched Cohort 3 of the freelancing masterclass was made for the channel and sold into the community.
+The list itself was built from zero in February 2026 to 10,000+ subscribers by June, at a 37% open rate and 6.4% click rate across 70,000+ sends, with opt in forms converting 77% of visitors. The community, first on Circle and since June 2026 on FluentCommunity at remotikaafrica.org, is the second owned layer: 13,198 members, 4,387 of them active in the last 90 days. YouTube feeds it directly: the video that launched Cohort 3 of the freelancing masterclass was made for the channel and sold into the community.
 
 ## 5. The monetisation ladder
 
@@ -60,21 +62,25 @@ Every rung is a piece of content first.
 
 ## 6. Authority: taking the channel offstage
 
-The channel earned invitations that then fed the channel.
+The channel earned invitations that then fed the channel. The full list, with dates and audience sizes, is in [training_and_speaking.md](training_and_speaking.md); the highlights:
 
 * TEDx talk on the gig economy and the future of employment
 * Panels at Dar Slush 2021, Tanzania Innovation Week 2021 and Sahara Spark 2022
 * Digital skills trainer for the International Trade Centre (UN) on the Tanga Yetu Project with Fondation Botnar and the Kidspreneur Organisation
 * Panellist, Ministry of Information Content Creators Seminar on Content Monetisation, February 2026
 * Invited participant, UNESCO Technical Consultation on Kiswahili Integration in Digital Platforms, April 2026, where my talking points covered the algorithmic disadvantage Swahili content faces, gaps in NLP tooling, and monetisation platforms that exclude East African creators
-* Freelancing trainer for School of St Jude alumni, 2026
-* Media features in TechCabal and The Economist
+* Trainer for School of St Jude (2024), the International Trade Centre's Digital Freelance Launch Pad (2024), Ennovate's Digify 6.0 (2024 to 2025), the #DijitoNaMimi TV fellowship (2022) and more
+* Panels for 200+ and 300+ students at the University of Dar es Salaam with AIESEC and Vijana Innovations (2026)
+* Media features in TechCabal (2022) and The Economist (2023); TBC television and AWR radio interviews (2026)
+* Tanzania Emerging Youth Awards nominee, 2021 and 2022
 
 The thesis I now speak and write about: every company is a media company, and the interesting question is why media companies still want to remain media companies.
 
-## 7. The brand as a launchpad for ventures
+## 7. The brand as a launchpad for campaigns and ventures
 
-The audience is why the ventures work. Remotika Africa (education), Jukwaa (digital products marketplace), Nijuze (tech news), Mshahara (salary transparency and jobs) and Curasa (creator marketplace) each launched to people who already trusted the channel. The English publication, Moments with Mafolebaraka, with its three pillars of digital jobs, startups and the creator economy, is being built the same way on LinkedIn and Substack.
+Brands came to the audience first: Education in Ireland (my content drove 77.6% of the campaign's influencer traffic and 81.5% of its registrations), Grey Finance's Tanzania launch, Africa's Business Heroes (500,000+ video views), Power Learn Project (449 students onboarded from a three week campaign). The details are in [influencer_campaigns.md](influencer_campaigns.md).
+
+The audience is also why the ventures work. Remotika Africa (education), Jukwaa (digital products marketplace), Nijuze (tech news), Mshahara (salary transparency and jobs) and Curasa (creator marketplace) each launched to people who already trusted the channel. The English publication, Moments with Mafolebaraka, with its three pillars of digital jobs, startups and the creator economy, is being built the same way on LinkedIn and Substack.
 
 In 2026 I ran a full digital brand audit of my own presence and rebuilt mafolebaraka.com around it: homepage copy, a stats ticker, a skills grid, event and portrait photography, a free on site community, and talent profiles with verification.
 

@@ -4,6 +4,8 @@
 **Platforms:** YouTube, Instagram, TikTok, LinkedIn, Telegram, WhatsApp Channel, Substack, plus a podcast on Spotify and Apple Podcasts
 **Languages:** Swahili and English
 
+This file covers how the channel runs. The story of how it was built, and the strategy behind it, is in [personal_brand.md](personal_brand.md).
+
 ## Context
 
 @mafolebaraka is my own channel on remote work, freelancing and the creator economy, aimed first at young Tanzanians and Kenyans and then at a global English speaking audience. The Swahili content uses authentic street Bongo flavour rather than a formal register. The English content positions me as an operator thinker on digital jobs, startups and the creator economy.
@@ -23,9 +25,11 @@
 ## Results (dated)
 
 * **150,000+ followers** and **3.4 million+ monthly views** across six platforms
-* YouTube channel mafolebaraka: **9,581 subscribers, 229,967 views and 15,800 watch hours** in the first 18 months (December 2024 to June 2026), with 20,800 views and 573 new subscribers in the 28 days to 3 June 2026
-* Top videos: "Kazi za translation, AI trainings na Swahili tutoring Masterclass" (2,700 views), "Kazi ya kiswahili inayolipa kwa watanzania na wakenya" (1,200 views), "Darasa la bure la kuingiza hela kupitia translation" (538 views)
-* The channel feeds the Remotika Africa list (9,400+ subscribers) and paid cohorts, ebooks and masterclasses sold via Selar and Flutterwave
+* YouTube channel mafolebaraka: **9,581 subscribers, 229,967 views and 15,800 watch hours** in the first 18 months (December 2024 to 3 June 2026), with 20,800 views and 573 new subscribers in the 28 days to 3 June 2026; by 18 June 2026 the channel had passed **10,000 subscribers and 245,000 views**, with the top video above 14,000 views
+* LinkedIn: weekly impressions peaking at 11,831 (March 2026) with several weeks above 7,000
+* Audience across Instagram, YouTube, Facebook and LinkedIn: 193,000 (August 2026); X 50,800+ (September 2024)
+* Top videos as of 3 June 2026: "Kazi za translation, AI trainings na Swahili tutoring Masterclass" (2,700 views), "Kazi ya kiswahili inayolipa kwa watanzania na wakenya" (1,200 views), "Darasa la bure la kuingiza hela kupitia translation" (538 views)
+* The channel feeds the Remotika Africa list (10,000+ subscribers) and paid cohorts, ebooks and masterclasses sold via Selar and Flutterwave
 * Speaking invitations that grew out of the channel: TEDx, UNESCO's Kiswahili in digital platforms consultation, and the Ministry of Information seminar on content monetisation
 
 ## Point of view

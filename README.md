@@ -1,4 +1,4 @@
-# Baraka Mafole · Marketing Portfolio
+# Baraka Mafole · Content marketer
 
 Digital media and social media strategist, community builder and bilingual content creator (English and Swahili) based in Dar es Salaam, Tanzania. This repository holds case studies of my work from 2021 to 2026, the playbooks I reuse across clients, and the products I have shipped.
 
